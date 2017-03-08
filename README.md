@@ -10,11 +10,6 @@ Project infinite is a brain training app designed from the ground up for the old
 
 Table of content:
 
-Installation
-Usage 
-Contribution Report
-
-
 
 Installation
 
